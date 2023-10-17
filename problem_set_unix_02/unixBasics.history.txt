@@ -1,0 +1,16 @@
+  419  git add oops2
+  420  ls
+  421  git commit -m 'adding oops2\n'
+  422  ls
+  423  git push
+  424  rm oops2
+  425  git add oops2
+  426  git commit -m 'removing oops2'
+  427  git push
+  428  ls
+  429  vi never
+  430  ls
+  431  git add never
+  432  git reset never
+  433  ls
+  434  history
