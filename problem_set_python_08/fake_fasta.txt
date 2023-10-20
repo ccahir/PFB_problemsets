@@ -1,0 +1,4 @@
+>seq1 path1
+GATGCTGTG
+>seq2 path2
+CATGGGAAA
