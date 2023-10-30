@@ -1,0 +1,15 @@
+
+Found perl:
+   /Users/pfb19/miniconda3/bin/perl
+   This is perl 5, version 34, subversion 0 (v5.34.0) built for darwin-thread-multi-2level
+
+Found java:
+   /Users/pfb19/miniconda3/bin/java
+   openjdk version "11.0.13" 2021-10-19
+
+Found canu:
+   /Users/pfb19/problemsets/genome_assembly_workshop/canu-2.2/bin/canu
+   canu 2.2
+
+Running job 1 based on command line options.
+/Users/pfb19/problemsets/genome_assembly_workshop/ecoli-pacbio-80/unitigging/4-unitigger
